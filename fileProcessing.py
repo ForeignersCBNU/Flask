@@ -73,6 +73,9 @@ def fileProcessing(path):
     finally:
         pythoncom.CoUninitialize()
 
+    return os.path.join(r"C:\flask_upload\summarizedCaption", f"{fileName}_Summary.pdf")
+
+
 
 
 """

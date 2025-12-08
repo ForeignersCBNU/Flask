@@ -10,6 +10,7 @@ import base64
 import warnings
 import json
 from datetime import datetime
+from flask import jsonify
 
 
 warnings.filterwarnings("ignore", category=UserWarning)  # FPDF 경고 숨김
@@ -40,7 +41,7 @@ def doSummarize(path):
             ImagePage.append(image)
 
     # OpenAI 클라이언트
-    client = OpenAI(api_key="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")
+    client = OpenAI(api_key="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")
 
     # --- 텍스트 전체 문자열 ---
     fullText = "\n".join(TextPage)
@@ -117,10 +118,16 @@ def doSummarize(path):
     pdf.output(os.path.join(out_dir, f"{fileName}_Summary.pdf"))
 
 
+    jsonPath = f'https://changlit.com/pdfConverted/{fileNaming.fileNaming(path)[0]}_Summary.pdf'
+
+
 
     # -------------------------------------------------------
     #   📌 JSON 파일로도 저장
     # -------------------------------------------------------
+   
+
+    """
     json_data = {
         "fileName": fileName,
         "text_summary": text_summary,
@@ -130,10 +137,11 @@ def doSummarize(path):
 
     json_path = os.path.join(out_dir, f"{fileName}_Summary.json")
 
+
     with open(json_path, "w", encoding="utf-8") as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=4)
 
-
+    """
 
 
     time.sleep(1)

@@ -561,3 +561,263 @@ t 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
 2025-12-08 04:55:41.034816: wfastcgi.py 3.0.0 initializing
 2025-12-08 04:55:41.391690: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
 2025-12-08 04:55:41.403288: wfastcgi.py 3.0.0 initialized
+2025-12-08 05:13:39.874044: wfastcgi.py 3.0.0 started
+2025-12-08 05:13:39.895706: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 05:13:39.910794: wfastcgi.py 3.0.0 initializing
+2025-12-08 05:13:40.369822: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 05:13:40.385864: wfastcgi.py 3.0.0 initialized
+2025-12-08 05:27:30.829840: wfastcgi.py 3.0.0 started
+2025-12-08 05:27:30.841234: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 05:27:30.856945: wfastcgi.py 3.0.0 initializing
+2025-12-08 05:27:31.364398: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 05:27:31.376842: wfastcgi.py 3.0.0 initialized
+2025-12-08 05:34:09.042700: wfastcgi.py 3.0.0 started
+2025-12-08 05:34:09.054453: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 05:34:09.120272: wfastcgi.py 3.0.0 initializing
+2025-12-08 05:34:09.491210: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 05:34:09.503207: wfastcgi.py 3.0.0 initialized
+2025-12-08 05:51:08.061595: wfastcgi.py 3.0.0 started
+2025-12-08 05:51:08.073388: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 05:51:08.081181: wfastcgi.py 3.0.0 initializing
+2025-12-08 05:51:08.437607: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 05:51:08.456967: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:01:05.369746: wfastcgi.py 3.0.0 started
+2025-12-08 06:01:05.384831: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:01:05.401954: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:01:05.737219: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:01:05.758789: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:17:42.590210: wfastcgi.py 3.0.0 started
+2025-12-08 06:17:42.597473: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:17:42.603206: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:17:42.928674: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:17:42.939439: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:18:38.069679: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 06:18:38.077268: Running on_exit tasks
+2025-12-08 06:21:21.714425: wfastcgi.py 3.0.0 started
+2025-12-08 06:21:21.719041: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:21:21.764087: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:21:22.095685: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:21:22.117622: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:25:43.400334: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 06:25:43.409553: Running on_exit tasks
+2025-12-08 06:26:17.402224: wfastcgi.py 3.0.0 started
+2025-12-08 06:26:17.410551: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:26:17.728827: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:26:18.057144: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:26:18.069311: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:27:10.663500: wfastcgi.py 3.0.0 started
+2025-12-08 06:27:10.673390: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:27:14.190197: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:27:14.520520: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:27:14.530861: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:34:22.264762: wfastcgi.py 3.0.0 started
+2025-12-08 06:34:22.267235: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:34:22.307213: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:34:23.182125: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:34:23.192806: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:36:46.318008: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 06:36:46.328179: Running on_exit tasks
+2025-12-08 06:48:11.116980: wfastcgi.py 3.0.0 started
+2025-12-08 06:48:11.130059: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:48:11.142909: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:48:13.927518: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:48:13.937361: wfastcgi.py 3.0.0 initialized
+2025-12-08 06:53:48.411427: wfastcgi.py 3.0.0 started
+2025-12-08 06:53:48.418457: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 06:53:48.426489: wfastcgi.py 3.0.0 initializing
+2025-12-08 06:53:49.547810: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 06:53:49.557391: wfastcgi.py 3.0.0 initialized
+2025-12-08 07:07:43.258580: wfastcgi.py 3.0.0 started
+2025-12-08 07:07:43.269978: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 07:07:43.284660: wfastcgi.py 3.0.0 initializing
+2025-12-08 07:07:44.917163: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 07:07:44.928163: wfastcgi.py 3.0.0 initialized
+2025-12-08 07:12:50.914154: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 07:12:50.917137: Running on_exit tasks
+2025-12-08 07:20:21.052953: wfastcgi.py 3.0.0 started
+2025-12-08 07:20:21.067320: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 07:20:21.067320: wfastcgi.py 3.0.0 initializing
+2025-12-08 07:20:22.712881: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 07:20:22.715277: wfastcgi.py 3.0.0 initialized
+2025-12-08 07:24:19.415333: wfastcgi.py 3.0.0 started
+2025-12-08 07:24:19.430688: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 07:24:19.449446: wfastcgi.py 3.0.0 initializing
+2025-12-08 07:24:21.222687: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 07:24:21.226139: wfastcgi.py 3.0.0 initialized
+2025-12-08 07:40:06.507174: wfastcgi.py 3.0.0 started
+2025-12-08 07:40:06.518189: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 07:40:06.532619: wfastcgi.py 3.0.0 initializing
+2025-12-08 07:40:08.186301: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 07:40:08.197417: wfastcgi.py 3.0.0 initialized
+2025-12-08 07:45:37.517551: wfastcgi.py 3.0.0 started
+2025-12-08 07:45:37.531140: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 07:45:37.542983: wfastcgi.py 3.0.0 initializing
+2025-12-08 07:45:38.869244: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 07:45:38.877941: wfastcgi.py 3.0.0 initialized
+2025-12-08 07:55:55.578935: wfastcgi.py 3.0.0 started
+2025-12-08 07:55:55.591615: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 07:55:55.608641: wfastcgi.py 3.0.0 initializing
+2025-12-08 07:55:57.340104: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 07:55:57.352661: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:00:38.566151: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 08:00:38.581678: Running on_exit tasks
+2025-12-08 08:01:39.818556: wfastcgi.py 3.0.0 started
+2025-12-08 08:01:39.826759: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:01:39.834344: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:01:41.085970: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:01:41.087480: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:02:24.830287: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 08:02:24.847257: Running on_exit tasks
+2025-12-08 08:03:54.124159: wfastcgi.py 3.0.0 started
+2025-12-08 08:03:54.135498: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:03:54.158428: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:03:55.779052: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:03:55.790053: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:07:10.759950: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 08:07:10.765222: Running on_exit tasks
+2025-12-08 08:09:18.785691: wfastcgi.py 3.0.0 started
+2025-12-08 08:09:18.801761: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:09:18.817529: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:09:21.326609: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:09:21.340062: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:12:51.605260: wfastcgi.py exiting because fileProcessing.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 08:12:51.617936: Running on_exit tasks
+2025-12-08 08:16:11.711494: wfastcgi.py 3.0.0 started
+2025-12-08 08:16:11.722582: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:16:11.734605: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:16:13.338134: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:16:13.349189: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:21:48.432084: wfastcgi.py 3.0.0 started
+2025-12-08 08:21:48.443715: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:21:48.455435: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:21:50.232152: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:21:50.245421: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:27:29.933563: wfastcgi.py 3.0.0 started
+2025-12-08 08:27:29.949262: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:27:29.966631: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:27:32.214003: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:27:32.227207: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:52:34.069887: wfastcgi.py 3.0.0 started
+2025-12-08 08:52:34.082635: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:52:34.094108: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:52:36.067066: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:52:36.082684: wfastcgi.py 3.0.0 initialized
+2025-12-08 08:54:13.547249: wfastcgi.py 3.0.0 started
+2025-12-08 08:54:13.562131: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 08:54:13.575679: wfastcgi.py 3.0.0 initializing
+2025-12-08 08:54:15.448597: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 08:54:15.459632: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:11:29.167450: wfastcgi.py 3.0.0 started
+2025-12-08 09:11:29.181362: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:11:29.181362: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:11:30.799976: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:11:30.820414: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:15:51.017576: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 09:15:51.038578: Running on_exit tasks
+2025-12-08 09:17:00.398535: wfastcgi.py 3.0.0 started
+2025-12-08 09:17:00.410700: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:17:00.430188: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:17:02.079750: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:17:02.100876: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:20:54.539057: wfastcgi.py 3.0.0 started
+2025-12-08 09:20:54.542036: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:20:54.552750: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:20:56.630023: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:20:56.645907: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:25:17.788438: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 09:25:17.807061: Running on_exit tasks
+2025-12-08 09:26:16.737730: wfastcgi.py 3.0.0 started
+2025-12-08 09:26:16.748057: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:26:16.760600: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:26:18.583109: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:26:18.597380: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:30:01.267508: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 09:30:01.282463: Running on_exit tasks
+2025-12-08 09:30:46.159983: wfastcgi.py 3.0.0 started
+2025-12-08 09:30:46.172487: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:30:46.184390: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:30:47.926639: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:30:47.941777: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:32:32.948988: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 09:32:32.966282: Running on_exit tasks
+2025-12-08 09:33:35.116178: wfastcgi.py 3.0.0 started
+2025-12-08 09:33:35.127175: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:33:35.140633: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:33:37.280653: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:33:37.295904: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:35:00.526658: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 09:35:00.541799: Running on_exit tasks
+2025-12-08 09:37:03.777052: wfastcgi.py 3.0.0 started
+2025-12-08 09:37:03.798960: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:37:03.825538: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:37:05.449977: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:37:05.460097: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:37:30.149322: wfastcgi.py 3.0.0 started
+2025-12-08 09:37:30.163824: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:37:30.708723: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:37:32.516591: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:37:32.530606: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:38:34.110981: wfastcgi.py 3.0.0 started
+2025-12-08 09:38:34.124007: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:38:43.237760: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:38:44.734136: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:38:44.742316: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:38:56.070087: wfastcgi.py 3.0.0 started
+2025-12-08 09:38:56.082090: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:38:56.293739: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:38:57.944433: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:38:57.954650: wfastcgi.py 3.0.0 initialized
+2025-12-08 09:56:16.124499: wfastcgi.py 3.0.0 started
+2025-12-08 09:56:16.140299: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 09:56:16.155892: wfastcgi.py 3.0.0 initializing
+2025-12-08 09:56:20.033719: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 09:56:20.054575: wfastcgi.py 3.0.0 initialized
+2025-12-08 10:02:12.771731: wfastcgi.py 3.0.0 started
+2025-12-08 10:02:12.786114: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 10:02:12.802325: wfastcgi.py 3.0.0 initializing
+2025-12-08 10:02:14.980781: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 10:02:14.992971: wfastcgi.py 3.0.0 initialized
+2025-12-08 10:18:33.756561: wfastcgi.py 3.0.0 started
+2025-12-08 10:18:33.772403: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 10:18:33.789982: wfastcgi.py 3.0.0 initializing
+2025-12-08 10:18:36.097237: wfastcgi.py 3.0.0 started
+2025-12-08 10:18:36.118696: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 10:18:37.019086: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 10:18:37.036878: wfastcgi.py 3.0.0 initialized
+2025-12-08 10:18:39.890915: wfastcgi.py 3.0.0 initializing
+2025-12-08 10:18:42.639760: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 10:18:42.654678: wfastcgi.py 3.0.0 initialized
+2025-12-08 10:27:28.752253: wfastcgi.py 3.0.0 started
+2025-12-08 10:27:28.771256: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 10:27:28.784088: wfastcgi.py 3.0.0 initializing
+2025-12-08 10:27:31.546981: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 10:27:31.563621: wfastcgi.py 3.0.0 initialized
+2025-12-08 10:37:35.184759: wfastcgi.py exiting because app.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 10:37:35.186095: Running on_exit tasks
+2025-12-08 10:44:21.604507: wfastcgi.py 3.0.0 started
+2025-12-08 10:44:21.618339: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 10:44:21.636611: wfastcgi.py 3.0.0 initializing
+2025-12-08 10:44:23.912089: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 10:44:23.924857: wfastcgi.py 3.0.0 initialized
+2025-12-08 10:57:59.525467: wfastcgi.py 3.0.0 started
+2025-12-08 10:57:59.540443: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 10:57:59.556297: wfastcgi.py 3.0.0 initializing
+2025-12-08 10:58:02.016300: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 10:58:02.030039: wfastcgi.py 3.0.0 initialized
+2025-12-08 11:03:20.077357: wfastcgi.py exiting because doByAI.py has changed, matching .*((\.py)|(\.config))$
+2025-12-08 11:03:20.093316: Running on_exit tasks
+2025-12-08 11:04:19.421244: wfastcgi.py 3.0.0 started
+2025-12-08 11:04:19.430920: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 11:04:19.440495: wfastcgi.py 3.0.0 initializing
+2025-12-08 11:04:21.273801: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 11:04:21.283081: wfastcgi.py 3.0.0 initialized
+2025-12-08 11:22:54.813170: wfastcgi.py 3.0.0 started
+2025-12-08 11:22:54.816394: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 11:22:54.827552: wfastcgi.py 3.0.0 initializing
+2025-12-08 11:22:56.857707: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 11:22:56.865061: wfastcgi.py 3.0.0 initialized
+2025-12-08 11:33:51.253231: wfastcgi.py 3.0.0 started
+2025-12-08 11:33:51.267893: Python version: 3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+2025-12-08 11:33:51.268901: wfastcgi.py 3.0.0 initializing
+2025-12-08 11:33:52.168693: wfastcgi.py will restart when files in C:\flask_upload\ are changed: .*((\.py)|(\.config))$
+2025-12-08 11:33:52.175634: wfastcgi.py 3.0.0 initialized

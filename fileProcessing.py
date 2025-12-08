@@ -14,12 +14,10 @@ convert_lock = threading.Lock()
 def fileProcessing(path):
     pythoncom.CoInitialize()
     try:
-        # Word/PPT formatting only in one thread
         with convert_lock:
 
             # filename and extension
-            fileName = fileNaming.fileNaming(path)[0]
-            extension = fileNaming.fileNaming(path)[1]
+            fileName, extension = fileNaming.fileNaming(path)
 
             # input file path normalization
             filePath = os.path.normpath(path)
@@ -34,58 +32,44 @@ def fileProcessing(path):
             print("Converting:", filePath)
             print("Saving to:", savePath)
 
-            # ---------- about extension ----------
+            # ---------- convert section ----------
             if extension == '.pdf':
-                # PDF
                 shutil.copy(filePath, savePath)
-
 
             elif extension in ['.doc', '.docx']:
                 word = comtypes.client.CreateObject("Word.Application")
                 word.Visible = False
-
                 doc = word.Documents.Open(filePath)
-                doc.SaveAs(savePath, FileFormat=17)  # 17 = PDF
+                doc.SaveAs(savePath, FileFormat=17)
                 doc.Close()
                 word.Quit()
-
 
             elif extension in ['.ppt', '.pptx']:
                 powerpoint = comtypes.client.CreateObject("PowerPoint.Application")
                 powerpoint.Visible = False
-
                 ppt = powerpoint.Presentations.Open(filePath, WithWindow=False)
-                ppt.SaveAs(savePath, FileFormat=32)  # 32 = PDF
+                ppt.SaveAs(savePath, FileFormat=32)
                 ppt.Close()
                 powerpoint.Quit()
 
-
             else:
                 print("Unsupported file type:", extension)
-                return
+                return None
+            
 
-            # wait...
+            # wait for file write
             time.sleep(0.5)
 
             # -------- AI summary (Only PDF) --------
-            doByAI.doSummarize(savePath)
+            result = doByAI.doSummarize(savePath)
+
+            # -----result must include these three-----
+
+            # result["text_summary"]
+            # result["image_summary"]
+            # result["summary_pdf_path"]
+
+            return result
 
     finally:
         pythoncom.CoUninitialize()
-
-    return os.path.join(r"C:\flask_upload\summarizedCaption", f"{fileName}_Summary.pdf")
-
-
-
-
-"""
-    TextPage=[]
-    i=-1
-
-    for page in doc:
-        i+=1
-        texts = page.get_text()
-        TextPage.append(texts)
-
-    print(TextPage)
-"""
